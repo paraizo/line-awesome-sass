@@ -1,7 +1,7 @@
 {
-  "name": "line-awesome",
+  "name": "line-awesome-sass",
   "version": "0.9.0",
-  "description": "Line awesome icons pack",
+  "description": "Line awesome icons pack - SASS version",
   "license": "MIT",
   "keywords": [
     "font",
@@ -11,6 +11,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/icons8/line-awesome.git"
+    "url": "https://github.com/paraizo/line-awesome-sass.git"
   }
 }
