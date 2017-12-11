@@ -1,19 +1,19 @@
 // List Icons
 // -------------------------
 
-.#{$fa-css-prefix}-ul {
+.#{$la-css-prefix}-ul {
   padding-left: 0;
-  margin-left: $fa-li-width;
+  margin-left: $la-li-width;
   list-style-type: none;
   > li { position: relative; }
 }
-.#{$fa-css-prefix}-li {
+.#{$la-css-prefix}-li {
   position: absolute;
-  left: -$fa-li-width;
-  width: $fa-li-width;
+  left: -$la-li-width;
+  width: $la-li-width;
   top: (2em / 14);
   text-align: center;
-  &.#{$fa-css-prefix}-lg {
-    left: -$fa-li-width + (4em / 14);
+  &.#{$la-css-prefix}-lg {
+    left: -$la-li-width + (4em / 14);
   }
 }
