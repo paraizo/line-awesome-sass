@@ -3,7 +3,7 @@
 
 $la-sass-asset-helper: false !default;
 
-$la-font-path: if($la-sass-asset-helper, "../fonts/", "../dist/fonts/") !default;
+$la-font-path: if($la-sass-asset-helper, "../fonts/", "~line-awesome-sass/dist/fonts/") !default;
 $la-font-name: "line-awesome" !default;
 
 $la-font-size-base:   14px !default;
